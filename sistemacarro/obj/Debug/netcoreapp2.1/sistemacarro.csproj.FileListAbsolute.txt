@@ -1,0 +1,11 @@
+/Users/aluno/Projects/sistemacarro/sistemacarro/bin/Debug/netcoreapp2.1/sistemacarro.deps.json
+/Users/aluno/Projects/sistemacarro/sistemacarro/bin/Debug/netcoreapp2.1/sistemacarro.runtimeconfig.json
+/Users/aluno/Projects/sistemacarro/sistemacarro/bin/Debug/netcoreapp2.1/sistemacarro.runtimeconfig.dev.json
+/Users/aluno/Projects/sistemacarro/sistemacarro/bin/Debug/netcoreapp2.1/sistemacarro.dll
+/Users/aluno/Projects/sistemacarro/sistemacarro/bin/Debug/netcoreapp2.1/sistemacarro.pdb
+/Users/aluno/Projects/sistemacarro/sistemacarro/obj/Debug/netcoreapp2.1/sistemacarro.csprojAssemblyReference.cache
+/Users/aluno/Projects/sistemacarro/sistemacarro/obj/Debug/netcoreapp2.1/sistemacarro.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/sistemacarro/sistemacarro/obj/Debug/netcoreapp2.1/sistemacarro.AssemblyInfoInputs.cache
+/Users/aluno/Projects/sistemacarro/sistemacarro/obj/Debug/netcoreapp2.1/sistemacarro.AssemblyInfo.cs
+/Users/aluno/Projects/sistemacarro/sistemacarro/obj/Debug/netcoreapp2.1/sistemacarro.dll
+/Users/aluno/Projects/sistemacarro/sistemacarro/obj/Debug/netcoreapp2.1/sistemacarro.pdb
